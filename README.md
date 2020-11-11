@@ -1,10 +1,8 @@
-### Hi there 👋
+Hello there, my name is swarnim1411 and I am an aspiring programmer, taking steps 1 by 1 in the world of programming. 
 
-`Name` : swarnim1411
+💻 Currently making calculators in python b3cause I am a n88b
 
-`interests` : Gaming, coding, listening to music
-
-`coder level` : LvL 5 
+📍 Location : right behind you
 
 <h1> Favorite duo </h1>
 
