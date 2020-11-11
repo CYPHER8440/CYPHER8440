@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**swarnim1411/swarnim1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Name` : swarnim1411
 
-Here are some ideas to get you started:
+`interests` : Gaming, coding, listening to music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`coder level` : LvL 5 
+
+<h1> Favorite duo </h1>
+
+![giphy](https://media0.giphy.com/media/sPtPHvqyANbuo/giphy.gif?cid=ecf05e47bn9pt284ccgrh5h7zfiqfbpj01g57g8sqq71awp2&rid=giphy.gif)
+
+[join my discord server if you are intrested in gaming,programming and hacking](https://discord.gg/yPe3ysR)
+![banner](https://cdn.discordapp.com/attachments/749513904261955635/767947405269532672/unknown.png)
+
