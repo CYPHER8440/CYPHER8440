@@ -1,6 +1,6 @@
 Hello there, my name is swarnim1411 and I am an aspiring programmer, taking steps 1 by 1 in the world of programming. I also have a YT channel where I upload Among Us gameplays. 
 
-💻 Currently making calculators in python b3cause I am a n88b
+💻 Making a discord bot (currently under R&D)
 
 📍 Location : right behind you
 
