@@ -16,7 +16,7 @@ Intrests :-
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
 
-[![swarnim1411's github stats](https://github-readme-stats.vercel.app/api?username=swarnim1411&theme=blue-green)](https://github.com/swarnim1411/github-readme-stats)
+[![swarnim1411's github stats](https://github-readme-stats.vercel.app/api?username=CYPHER8440&theme=blue-green)](https://github.com/swarnim1411/github-readme-stats)
 
 
 My discord:- `S O F T A N D W E T#8440`
