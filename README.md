@@ -1,4 +1,4 @@
-Hello there, my name is swarnim1411 and I am an aspiring programmer, taking steps 1 by 1 in the world of programming.
+Hello there, my name is CYPHER8440 and I am an aspiring programmer, taking steps 1 by 1 in the world of programming.
 
 📍 Location : [REDACTED]
 
@@ -19,6 +19,5 @@ Intrests :-
 [![swarnim1411's github stats](https://github-readme-stats.vercel.app/api?username=CYPHER8440&theme=blue-green)](https://github.com/swarnim1411/github-readme-stats)
 
 
-My discord:- `S O F T A N D W E T#8440`
+My discord:- `CYPHER#8440`
 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/kHg26bNWQE)
