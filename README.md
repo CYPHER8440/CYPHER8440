@@ -1,4 +1,4 @@
-![cypher spray](https://vgraphs.com/images/players/sprays/high-quality/valorant-spray-cypher.png)
+<img src = https://vgraphs.com/images/players/sprays/valorant-collectible-i-see-you-spray.png>
 # About me!
 I am python programmer( also learning javascript) who makes discord bots for fun. I also like to play FPS games, mostly I play VALORANT. 
 ***
