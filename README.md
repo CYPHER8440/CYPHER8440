@@ -1,12 +1,14 @@
 <img src = https://vgraphs.com/images/players/sprays/valorant-collectible-i-see-you-spray.png>
+
 # About me!
+
 I am python programmer( also learning javascript) who makes discord bots for fun. I also like to play FPS games, mostly I play VALORANT. 
+
 ***
 # My intrests...
 * VALORANT
 * python
 * Gaming
-
 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
