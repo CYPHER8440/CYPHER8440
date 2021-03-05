@@ -1,16 +1,12 @@
-Hello there, my name is CYPHER8440 and I am an aspiring programmer, taking steps 1 by 1 in the world of programming.
-
-📍 Location : [REDACTED]
-
-Intrests :-
+![cypher spray](https://vgraphs.com/images/players/sprays/high-quality/valorant-spray-cypher.png)
+# About me!
+I am python programmer( also learning javascript) who makes discord bots for fun. I also like to play FPS games, mostly I play VALORANT. 
+***
+# My intrests...
 * VALORANT
-* DISCORD BOT DEVELOPMENT
-* JoJo's Bizzare Adventures
-* Anime
+* python
+* Gaming
 
-<h1> Favorite duo </h1>
-
-![giphy](https://media0.giphy.com/media/sPtPHvqyANbuo/giphy.gif?cid=ecf05e47bn9pt284ccgrh5h7zfiqfbpj01g57g8sqq71awp2&rid=giphy.gif)
 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
