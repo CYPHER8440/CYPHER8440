@@ -1,6 +1,8 @@
 ![imag](https://media.discordapp.net/attachments/820679184623861813/839755609833734184/about-me_banner.png?width=948&height=474)
 
-Self taught programmer;Learning python, ethical hacking and .js; Tech geek and e-sports fan
+```
+  Self taught programmer;Learning python, ethical hacking and .js; Tech geek and e-sports fan
+  ```
 
 ***
 # My intrests...
@@ -17,6 +19,7 @@ Self taught programmer;Learning python, ethical hacking and .js; Tech geek and e
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=CYPHER8440&theme=blue-green)
 
-
-My discord:- `CYPHER#8440`
-
+<h2> My socials
+  
+ * [ ❤ instagram](https://www.instagram.com/swarnim_38/)
+ * [🧡 reddit](https://www.reddit.com/user/swarnim_38/)
