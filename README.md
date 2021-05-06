@@ -1,6 +1,6 @@
 ![imag](https://media.discordapp.net/attachments/820679184623861813/839755609833734184/about-me_banner.png?width=948&height=474)
 
-I am python programmer( also learning javascript) who makes discord bots for fun. I also like to play FPS games, mostly I play VALORANT. 
+Self taught programmer;Learning python, ethical hacking and .js; Tech geek and e-sports fan
 
 ***
 # My intrests...
