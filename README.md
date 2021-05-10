@@ -1,7 +1,7 @@
 ![imag](https://media.discordapp.net/attachments/820679184623861813/839755609833734184/about-me_banner.png?width=948&height=474)
 
 ```
-  Self taught programmer;Learning python, ethical hacking and .js; Tech geek and e-sports fan
+  Self taught programmer;Learning python and.js; Tech geek and e-sports fan
   ```
 
 ***
